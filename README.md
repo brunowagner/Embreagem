@@ -45,4 +45,10 @@ ocupado
   
 ### Tota Auto Peças Comercio Eirelli - Me / RJ      2502-3198
 não tem  
+
+### Auto Mecânica Aline
+LUK 257  3x (din 10%)  
+Mão de Obra = 230  
+Correia dentada = 120  
+Falei com Edijeane  
   
