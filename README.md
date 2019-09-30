@@ -12,6 +12,7 @@ Mão de Obra = 350,00
 Total = 610,00  
 Leandro, dagoberto ou priscila 08:00  
 Forma de pagamento?
+Kit correia dentada + esticador = 140 (continental ou dayco)
   
 ### Abrahão auto peças
 Tem mas é de marca duvidosa
@@ -29,6 +30,8 @@ LUK = 318,00 3x (290,00 a vista) leandro
   
 ### Joiza Auto-Peças
 Valeo 230,00 3x (218,00 din 207,00)  
+Carreia dentada dayco = 44,00 
+Esticado 46,00 ou 136,00 (depende do modelo)
 
 ## Centro RJ
 ### Andrade Auto Peças    2293-9580
